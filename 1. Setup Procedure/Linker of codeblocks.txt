@@ -1,0 +1,3 @@
+https://youtu.be/CHFyEnlMnxg
+
+-lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32
